@@ -126,8 +126,8 @@
     },
     "waterline-sequel": {
       "version": "0.5.7",
-      "from": "waterline-sequel@0.5.7",
-      "resolved": "https://registry.npmjs.org/waterline-sequel/-/waterline-sequel-0.5.7.tgz",
+      "from": "git+https://github.com/anotherpit/waterline-sequel.git#v0.5.7",
+      "resolved": "git+https://github.com/anotherpit/waterline-sequel.git#7d745f10f70be9e035b2efbd97b2821fb3976c4d",
       "dependencies": {
         "lodash": {
           "version": "3.10.0",
